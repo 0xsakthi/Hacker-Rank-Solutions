@@ -1,2 +1,2 @@
 # Hacker-Rank-Solutions
-i solved hackeran python challenges so i share my knowledge to others
+iam  solving hackerank python challenges so i share my knowledge to others
